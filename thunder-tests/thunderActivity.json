@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "cd80777e-6d8b-4cbb-9ca8-f2796f821ae9",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/users",
+    "url": "http://localhost:3000/users",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-09-01T13:32:06.151Z",
+    "modified": "2022-09-01T14:08:00.154Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"email\":\"asdarsaid6772\",\n  \"name\":\"asdarsaid\",\n  \"password\":\"29000\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
